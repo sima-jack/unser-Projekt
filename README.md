@@ -1,2 +1,2 @@
-# -Das-ist-unser-Projekt
+unser-Projekt
 unser projekt
